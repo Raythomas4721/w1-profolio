@@ -3,8 +3,9 @@
 }
 
 body {
-    font-family: "Castoro", Arial, sans-serif;
+    font-family: "Noto Sans TC", "Roboto", Arial, sans-serif;
     font-size: 16px;
+    line-height: 1.5;
 }
 
 img {
@@ -20,39 +21,34 @@ ul {
     padding-left: 0;
 }
 
-h1{
+h1 {
     font-size: 128px;
-    line-height: 192px;
     font-weight: 400;
 }
 .h1-font {
     font-size: 128px;
-    line-height: 192px;
     font-weight: 400;
 }
 .bg-article {
-    background-color: #EFEFEF;
+    background-color: #efefef;
 }
 article {
     padding-top: 48px;
     padding-bottom: 48px;
     font-size: 32px;
-    line-height: 48px;
 }
 .profile-section {
     padding-top: 80px;
     padding-bottom: 160px;
 }
 .profile-title {
-    color: #AE0000;
+    color: #ae0000;
     font-size: 40px;
-    line-height: 60px;
-    border-bottom: #AE0000 3px solid;
+    border-bottom: #ae0000 3px solid;
     margin-bottom: 16px;
 }
 .profile-section a {
     font-size: 24px;
-    line-height: 36px;
     color: #000;
 }
 .profile-section a:hover {
@@ -61,22 +57,20 @@ article {
 .profile-section span {
     color: #949494;
     font-size: 20px;
-    line-height: 30px;
     font-style: italic;
 }
 .profile-section p {
     font-size: 24px;
-    line-height: 36px;
 }
 .mb-40 {
     margin-bottom: 40px;
 }
 .footer-media {
-    gap:40px;
+    gap: 40px;
     padding-top: 64px;
     padding-bottom: 64px;
 }
-.footer-media img{
+.footer-media img {
     width: 64px;
     height: 64px;
 }
